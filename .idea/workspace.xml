@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cc2e2de7-2c58-427a-895f-85b350920a6f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Pygame.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Code/test/test1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Code/test/test2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Code/test/test3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Covid 19 war edited/Assets/images/JiJiSR1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Covid 19 war edited/Assets/images/JiJiSR1L.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Covid 19 war edited/Assets/images/JiJiSR1R.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Covid 19 war edited/Assets/images/bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Covid 19 war edited/Assets/images/covid19.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Covid 19 war edited/Assets/images/covid19B.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Covid 19 war edited/Assets/images/cure.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Covid 19 war edited/Assets/sound/boom.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Covid 19 war edited/main_game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Covid 19 war/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Covid 19 war/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Covid 19 war/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Covid 19 war/.idea/markdown-navigator-enh.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Covid 19 war/.idea/markdown-navigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Covid 19 war/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Covid 19 war/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Covid 19 war/CovidWarTest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Covid 19 war/JiJiSR1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Covid 19 war/JiJiSR1L.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Covid 19 war/JiJiSR1R.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Covid 19 war/bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Covid 19 war/boom.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Covid 19 war/covid19.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Covid 19 war/covid19B.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Covid 19 war/covid19war.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Covid 19 war/covid19war1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Covid 19 war/covid19war2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Covid 19 war/covid19war3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Covid 19 war/covid19war4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Covid 19 war/covid19war5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Covid 19 war/covid19war6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Covid 19 war/covid19warV1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Covid 19 war/cure.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Covid 19 war/spaceWar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/covid_19_war_Achitapol_Thanuchit_663040724-6/Assets/images/Bg_menu1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/covid_19_war_Achitapol_Thanuchit_663040724-6/Assets/images/Bg_menu2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/covid_19_war_Achitapol_Thanuchit_663040724-6/Assets/images/Thailand_ball_attack1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/covid_19_war_Achitapol_Thanuchit_663040724-6/Assets/images/Thailand_ball_attack2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/covid_19_war_Achitapol_Thanuchit_663040724-6/Assets/images/Thailand_ball_attack3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/covid_19_war_Achitapol_Thanuchit_663040724-6/Assets/images/Thailand_ball_attack4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/covid_19_war_Achitapol_Thanuchit_663040724-6/Assets/images/Thailand_ball_attack5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/covid_19_war_Achitapol_Thanuchit_663040724-6/Assets/images/Thailand_ball_idle.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/covid_19_war_Achitapol_Thanuchit_663040724-6/Assets/images/Thailand_ball_idle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/covid_19_war_Achitapol_Thanuchit_663040724-6/Assets/images/Thailand_ball_left.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/covid_19_war_Achitapol_Thanuchit_663040724-6/Assets/images/Thailand_ball_left1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/covid_19_war_Achitapol_Thanuchit_663040724-6/Assets/images/Thailand_ball_left2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/covid_19_war_Achitapol_Thanuchit_663040724-6/Assets/images/Thailand_ball_power.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/covid_19_war_Achitapol_Thanuchit_663040724-6/Assets/images/Thailand_ball_right1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/covid_19_war_Achitapol_Thanuchit_663040724-6/Assets/images/Thailand_ball_right2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/covid_19_war_Achitapol_Thanuchit_663040724-6/Assets/images/Thailand_ball_rightt.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/covid_19_war_Achitapol_Thanuchit_663040724-6/Assets/images/back.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/covid_19_war_Achitapol_Thanuchit_663040724-6/Assets/images/bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/covid_19_war_Achitapol_Thanuchit_663040724-6/Assets/images/boss.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/covid_19_war_Achitapol_Thanuchit_663040724-6/Assets/images/boss_bullet_2t.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/covid_19_war_Achitapol_Thanuchit_663040724-6/Assets/images/city.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/covid_19_war_Achitapol_Thanuchit_663040724-6/Assets/images/covid-19_basic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/covid_19_war_Achitapol_Thanuchit_663040724-6/Assets/images/covid-19_speed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/covid_19_war_Achitapol_Thanuchit_663040724-6/Assets/images/covid-19_tank.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/covid_19_war_Achitapol_Thanuchit_663040724-6/Assets/images/covid19.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/covid_19_war_Achitapol_Thanuchit_663040724-6/Assets/images/covid19B.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/covid_19_war_Achitapol_Thanuchit_663040724-6/Assets/images/cure.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/covid_19_war_Achitapol_Thanuchit_663040724-6/Assets/images/double_atk.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/covid_19_war_Achitapol_Thanuchit_663040724-6/Assets/images/exit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/covid_19_war_Achitapol_Thanuchit_663040724-6/Assets/images/game_title.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/covid_19_war_Achitapol_Thanuchit_663040724-6/Assets/images/guide_button.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/covid_19_war_Achitapol_Thanuchit_663040724-6/Assets/images/heal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/covid_19_war_Achitapol_Thanuchit_663040724-6/Assets/images/play_button.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/covid_19_war_Achitapol_Thanuchit_663040724-6/Assets/images/quit_to_menu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/covid_19_war_Achitapol_Thanuchit_663040724-6/Assets/images/restart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/covid_19_war_Achitapol_Thanuchit_663040724-6/Assets/images/resume.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/covid_19_war_Achitapol_Thanuchit_663040724-6/Assets/images/return_to_menu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/covid_19_war_Achitapol_Thanuchit_663040724-6/Assets/images/shield.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/covid_19_war_Achitapol_Thanuchit_663040724-6/Assets/images/speed_attack.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/covid_19_war_Achitapol_Thanuchit_663040724-6/Assets/images/statistic_button.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/covid_19_war_Achitapol_Thanuchit_663040724-6/Assets/sound/Final Stage Pulse.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/covid_19_war_Achitapol_Thanuchit_663040724-6/Assets/sound/Final-Stage-Pulse.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/covid_19_war_Achitapol_Thanuchit_663040724-6/Assets/sound/Pixel Run.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/covid_19_war_Achitapol_Thanuchit_663040724-6/Assets/sound/Pixel-Run.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/covid_19_war_Achitapol_Thanuchit_663040724-6/Assets/sound/Retro Battle Loop.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/covid_19_war_Achitapol_Thanuchit_663040724-6/Assets/sound/Retro Boss Uprising.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/covid_19_war_Achitapol_Thanuchit_663040724-6/Assets/sound/Retro-Battle-Loop.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/covid_19_war_Achitapol_Thanuchit_663040724-6/Assets/sound/Retro-Boss-Uprising.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/covid_19_war_Achitapol_Thanuchit_663040724-6/Assets/sound/boom.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/covid_19_war_Achitapol_Thanuchit_663040724-6/Assets/sound/daviddumaisaudio-abstract-magic-whoosh-03-204485.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/covid_19_war_Achitapol_Thanuchit_663040724-6/Assets/sound/daviddumaisaudio-abstract-magic-whoosh-03-204485_edited.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/covid_19_war_Achitapol_Thanuchit_663040724-6/Assets/sound/dogwolf123-retro-hurt-sound-03-474780.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/covid_19_war_Achitapol_Thanuchit_663040724-6/Assets/sound/dogwolf123-retro-power-up-sound-02-474798.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/covid_19_war_Achitapol_Thanuchit_663040724-6/Assets/sound/dogwolf123-retro-power-up-sound-03-474809.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/covid_19_war_Achitapol_Thanuchit_663040724-6/Assets/sound/dogwolf123-retro-zap-sound-06-474813.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/covid_19_war_Achitapol_Thanuchit_663040724-6/Assets/sound/floraphonic-90s-game-ui-5-185098.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/covid_19_war_Achitapol_Thanuchit_663040724-6/Assets/sound/freesound_community-game-over-arcade-6435.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/covid_19_war_Achitapol_Thanuchit_663040724-6/Assets/sound/freesound_community-magic_spell_10-39689.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/covid_19_war_Achitapol_Thanuchit_663040724-6/Assets/sound/freesound_community-one_beep-99630.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/covid_19_war_Achitapol_Thanuchit_663040724-6/Assets/sound/freesound_community-power_up_grab-88510.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/covid_19_war_Achitapol_Thanuchit_663040724-6/Assets/sound/freesound_community-sword-sound-2-36274.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/covid_19_war_Achitapol_Thanuchit_663040724-6/Assets/sound/lesiakower-coin-collect-retro-8-bit-sound-effect-145251.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/covid_19_war_Achitapol_Thanuchit_663040724-6/Assets/sound/lolo_s-power-up-474087.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/covid_19_war_Achitapol_Thanuchit_663040724-6/Assets/sound/yodguard-warp-magic-1-382386.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/covid_19_war_Achitapol_Thanuchit_663040724-6/main_game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/HM_East_Attack_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/HM_East_Attack_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/HM_East_Attack_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/HM_East_Attack_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/HM_East_Stand.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/HM_East_Walk_Lt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/HM_East_Walk_Rt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/HM_North_Attack_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/HM_North_Attack_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/HM_North_Attack_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/HM_North_Attack_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/HM_North_Stand.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/HM_North_Walk_Lt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/HM_North_Walk_Rt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/HM_Sit_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/HM_Sit_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/HM_Sit_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/HM_Sit_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/HM_Sit_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/HM_South_Attack_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/HM_South_Attack_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/HM_South_Attack_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/HM_South_Attack_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/HM_South_Walk_Lt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/HM_South_Walk_Rt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/HM_South_stand.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/HM_West_Attack_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/HM_West_Attack_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/HM_West_Attack_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/HM_West_Attack_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/HM_West_Stand.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/HM_West_Walk_Lt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/HM_West_Walk_Rt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/SpriteAnimation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/SpriteAnimationDemo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/spriteAnimation1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/spriteAnimation2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/spriteAnimation3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/spriteAnimation4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/spriteAnimation5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/spriteAnimation6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/spriteAnimationFinal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/tile_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/tile_2.png" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Covid 19 war edited/test.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="38903A1U8SygesYqGl0RHM58NpE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.CovidWarTest.executor": "Run",
+    "Python.SpriteAnimation.executor": "Run",
+    "Python.Test.executor": "Run",
+    "Python.covid19warV1.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.main_game.executor": "Run",
+    "Python.test.executor": "Run",
+    "Python.test1.executor": "Run",
+    "Python.test2.executor": "Run",
+    "Python.test3.executor": "Run",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "ai.playground.ignore.import.keys.banner.in.settings": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "master",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "C:/Users/Achitapol/Desktop/university/Studio 6/Pygame/covid_19_war_Achitapol_Thanuchit_663040724-6/Assets/images",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Achitapol\Desktop\university\Studio 6\Pygame\covid_19_war_Achitapol_Thanuchit_663040724-6\Assets\images" />
+      <recent name="C:\Users\Achitapol\Desktop\university\Studio 6\Pygame" />
+      <recent name="C:\Users\Achitapol\Desktop\university\Studio 6\Pygame\Covid 19 war edited\Assets\images" />
+      <recent name="C:\Users\Achitapol\Desktop\university\Studio 6\Pygame\Covid 19 war edited" />
+      <recent name="C:\Users\Achitapol\Desktop\university\Studio 6\Pygame\Covid 19 war" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Achitapol\Desktop\university\Studio 6\Pygame\Covid 19 war edited\Assets\sound" />
+      <recent name="C:\Users\Achitapol\Desktop\university\Studio 6\Pygame\Covid 19 war edited\Assets\images" />
+      <recent name="C:\Users\Achitapol\Desktop\university\Studio 6\Pygame\Covid 19 war edited" />
+      <recent name="C:\Users\Achitapol\Desktop\university\Studio 6\Pygame\Code\test" />
+      <recent name="C:\Users\Achitapol\Desktop\university\Studio 6\Pygame" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-f2b7a9f6281b-6e1f45a539f7-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.29346.142" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cc2e2de7-2c58-427a-895f-85b350920a6f" name="Changes" comment="" />
+      <created>1768196278092</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1768196278092</updated>
+      <workItem from="1768196279130" duration="4236000" />
+      <workItem from="1768202382676" duration="1709000" />
+      <workItem from="1768204151910" duration="133000" />
+      <workItem from="1768204297872" duration="8010000" />
+      <workItem from="1769414772260" duration="2550000" />
+      <workItem from="1770021020456" duration="146000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Covid 19 war/CovidWarTest.py</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Pygame$Test.coverage" NAME="Test Coverage Results" MODIFIED="1768206221689" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Code/test" />
+    <SUITE FILE_PATH="coverage/Pygame$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1768212152030" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Code/test" />
+    <SUITE FILE_PATH="coverage/Pygame$test3.coverage" NAME="test3 Coverage Results" MODIFIED="1769415997563" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Code/test" />
+    <SUITE FILE_PATH="coverage/Pygame$main.coverage" NAME="main Coverage Results" MODIFIED="1768200005931" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Code" />
+    <SUITE FILE_PATH="coverage/Pygame$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1768207472646" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Code/test" />
+  </component>
+</project>
