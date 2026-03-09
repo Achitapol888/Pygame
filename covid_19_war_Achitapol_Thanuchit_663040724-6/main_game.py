@@ -18,7 +18,7 @@ STATS_FILE = "stats.json"
 screen = pygame.display.set_mode((WIDTH, HEIGHT))
 pygame.display.set_caption("Covid-19 War - Achitapol Thanuchit Version")
 
-#Assets
+#assets
 bg_gameplay = pygame.image.load("Assets/images/city.png").convert()
 bg_gameplay = pygame.transform.smoothscale(bg_gameplay, (WIDTH, HEIGHT))
 

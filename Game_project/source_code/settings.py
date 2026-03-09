@@ -1,0 +1,24 @@
+# source_code/settings.py
+
+# Resolution Scaling
+USE_FULLSCREEN = False
+
+GAME_WIDTH = 640
+GAME_HEIGHT = 360
+SCALE = 2
+WINDOW_WIDTH = GAME_WIDTH * SCALE
+WINDOW_HEIGHT = GAME_HEIGHT * SCALE
+FPS = 60
+
+# Colors
+WHITE = (255, 255, 255)
+BLACK = (0, 0, 0)
+RED = (200, 0, 0)
+GREEN = (34, 139, 34)
+
+# Physics
+GRAVITY = 0.8
+JUMP_STRENGTH = -12
+PLAYER_SPEED = 5
+
+BAR_HEIGHT = 60
