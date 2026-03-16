@@ -5,26 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cc2e2de7-2c58-427a-895f-85b350920a6f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Game_project/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Game_project/source_code/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Game_project/source_code/characters/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Game_project/source_code/characters/player.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Game_project/source_code/engine.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Game_project/source_code/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Game_project/source_code/states/base_state.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Game_project/source_code/states/game_play.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Game_project/source_code/states/menu.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Game_project/source_code/systems/combat.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Game_project/source_code/systems/inventory.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Game_project/source_code/systems/lighting.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Game_project/source_code/systems/sanity.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Game_project/source_code/systems/ui.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Game_project/source_code/world.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Game_project/source_code/worlds/elevator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Game_project/source_code/worlds/level_manager.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Game_project/test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/covid_19_war_Achitapol_Thanuchit_663040724-6/main_game.py" beforeDir="false" afterPath="$PROJECT_DIR$/covid_19_war_Achitapol_Thanuchit_663040724-6/main_game.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Game_project/source_code/characters/player.py" beforeDir="false" afterPath="$PROJECT_DIR$/Game_project/source_code/characters/player.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Game_project/source_code/engine.py" beforeDir="false" afterPath="$PROJECT_DIR$/Game_project/source_code/engine.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Game_project/source_code/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Game_project/source_code/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Game_project/source_code/states/game_play.py" beforeDir="false" afterPath="$PROJECT_DIR$/Game_project/source_code/states/game_play.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Game_project/source_code/states/menu.py" beforeDir="false" afterPath="$PROJECT_DIR$/Game_project/source_code/states/menu.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Game_project/source_code/systems/combat.py" beforeDir="false" afterPath="$PROJECT_DIR$/Game_project/source_code/characters/enemies.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Game_project/source_code/systems/inventory.py" beforeDir="false" afterPath="$PROJECT_DIR$/Game_project/source_code/systems/inventory.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Game_project/source_code/systems/lighting.py" beforeDir="false" afterPath="$PROJECT_DIR$/Game_project/source_code/systems/lighting.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Game_project/source_code/systems/sanity.py" beforeDir="false" afterPath="$PROJECT_DIR$/Game_project/source_code/systems/threat.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Game_project/source_code/systems/ui.py" beforeDir="false" afterPath="$PROJECT_DIR$/Game_project/source_code/systems/ui.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Game_project/source_code/world.py" beforeDir="false" afterPath="$PROJECT_DIR$/Game_project/source_code/world.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Game_project/source_code/worlds/elevator.py" beforeDir="false" afterPath="$PROJECT_DIR$/Game_project/source_code/worlds/elevator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Game_project/source_code/worlds/level_manager.py" beforeDir="false" afterPath="$PROJECT_DIR$/Game_project/source_code/worlds/level_manager.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,44 +53,44 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.CovidWarTest.executor": "Run",
-    "Python.SpriteAnimation.executor": "Run",
-    "Python.Test.executor": "Run",
-    "Python.Unnamed.executor": "Run",
-    "Python.covid19warV1.executor": "Run",
-    "Python.engine.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.main_game.executor": "Run",
-    "Python.player.executor": "Run",
-    "Python.settings.executor": "Run",
-    "Python.sprites.executor": "Run",
-    "Python.test.executor": "Run",
-    "Python.test1.executor": "Run",
-    "Python.test2.executor": "Run",
-    "Python.test3.executor": "Run",
-    "RunOnceActivity.MCP Project settings loaded": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "ai.playground.ignore.import.keys.banner.in.settings": "true",
-    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "master",
-    "junie.onboarding.icon.badge.shown": "true",
-    "last_opened_file_path": "C:/Users/Achitapol/Desktop/university/Studio 6/Pygame/Game_project/source_code/worlds",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
-    "to.speed.mode.migration.done": "true",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.CovidWarTest.executor&quot;: &quot;Run&quot;,
+    &quot;Python.SpriteAnimation.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Test.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Unnamed.executor&quot;: &quot;Run&quot;,
+    &quot;Python.covid19warV1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.engine.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main_game.executor&quot;: &quot;Run&quot;,
+    &quot;Python.player.executor&quot;: &quot;Run&quot;,
+    &quot;Python.settings.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sprites.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test3.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;ai.playground.ignore.import.keys.banner.in.settings&quot;: &quot;true&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Achitapol/Desktop/university/Studio 6/Pygame/Game_project/source_code/worlds&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Achitapol\Desktop\university\Studio 6\Pygame\Game_project\source_code\worlds" />
@@ -106,11 +100,11 @@
       <recent name="C:\Users\Achitapol\Desktop\university\Studio 6\Pygame\Covid 19 war edited" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Achitapol\Desktop\university\Studio 6\Pygame\Game_project\assets\sprites" />
+      <recent name="C:\Users\Achitapol\Desktop\university\Studio 6\Pygame\Game_project\assets" />
       <recent name="C:\Users\Achitapol\Desktop\university\Studio 6\Pygame\Game_project\source_code\characters" />
       <recent name="C:\Users\Achitapol\Desktop\university\Studio 6\Pygame" />
       <recent name="C:\Users\Achitapol\Desktop\university\Studio 6\Pygame\Covid 19 war edited\Assets\sound" />
-      <recent name="C:\Users\Achitapol\Desktop\university\Studio 6\Pygame\Covid 19 war edited\Assets\images" />
-      <recent name="C:\Users\Achitapol\Desktop\university\Studio 6\Pygame\Covid 19 war edited" />
     </key>
   </component>
   <component name="RunManager">

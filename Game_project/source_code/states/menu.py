@@ -17,7 +17,7 @@ class MenuState(BaseState):
 
     def draw(self, surface):
         surface.fill(BLACK)
-        title = self.font.render("ELEVATOR HORROR", True, WHITE)
+        title = self.font.render("The Elevator", True, WHITE)
         instruction = self.font.render("Press 'P' to Play or 'Q' to Quit", True, WHITE)
 
         surface.blit(title, (GAME_WIDTH // 2 - title.get_width() // 2, 100))
